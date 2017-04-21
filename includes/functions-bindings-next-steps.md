@@ -1,0 +1,1 @@
+Para obtener información sobre otros enlaces y desencadenadores para las funciones de Azure, consulte [desencadenadores funciones de Azure y referencia del programador de enlaces](../articles/azure-functions/functions-triggers-bindings.md)
